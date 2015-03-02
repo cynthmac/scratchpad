@@ -1,6 +1,8 @@
 # scratchpad
 This is a disposable repo for a meeting about how git/GitHub works
 
+Cynthia's making a change! 
+
 ## Agenda
 
 - What is git and GitHub?
